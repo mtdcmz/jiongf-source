@@ -1,0 +1,89 @@
+{
+  "site": {
+    "siteName": "囧闪闪",
+    "slogan": "中国闪客的精神家园",
+    "domain": "jiongf.dpdns.org",
+    "notice": "欢迎光临囧闪闪！本站收录2000-2006年最经典的Flash动画，建议使用IE6.0浏览。",
+    "copyright": "Copyright © 2003-2006 囧闪闪 All Rights Reserved.",
+    "categories": [
+      {
+        "name": "搞笑动画",
+        "url": "#"
+      },
+      {
+        "name": "闪客MTV",
+        "url": "#"
+      },
+      {
+        "name": "感人短片",
+        "url": "#"
+      },
+      {
+        "name": "Flash小游戏",
+        "url": "#"
+      },
+      {
+        "name": "电子贺卡",
+        "url": "#"
+      },
+      {
+        "name": "恶搞配音",
+        "url": "#"
+      },
+      {
+        "name": "连续剧",
+        "url": "#"
+      },
+      {
+        "name": "网络歌曲",
+        "url": "#"
+      }
+    ],
+    "friendLinks": [
+      {
+        "name": "闪吧",
+        "url": "#"
+      },
+      {
+        "name": "闪客帝国",
+        "url": "#"
+      },
+      {
+        "name": "闪客天堂",
+        "url": "#"
+      }
+    ],
+    "comments": [
+      {
+        "user": "无名小卒",
+        "text": "太经典了！想当年就是看这个长大的~"
+      },
+      {
+        "user": "2003",
+        "text": "求MP3背景音乐下载！"
+      }
+    ]
+  },
+  "github": {
+    "owner": "mtdcmz",
+    "repo": "jiongf-source",
+    "branch": "main",
+    "basePath": "",
+    "logoPath": "logo.gif"
+  },
+  "animations": [
+    {
+      "id": "1",
+      "title": "赚钱啦",
+      "author": "动漫地带",
+      "category": "搞笑动画",
+      "date": "2005-09-30",
+      "views": 17983,
+      "width": 550,
+      "height": 400,
+      "thumb": "thumbs/1.gif",
+      "file": "swf/1.swf",
+      "description": "好多人已经把这个设置成了自己的炫酷彩铃！超经典，超火爆！"
+    }
+  ]
+}
