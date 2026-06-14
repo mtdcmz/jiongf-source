@@ -4,7 +4,7 @@
     "slogan": "中国闪客的精神家园",
     "domain": "jiongf.dpdns.org",
     "notice": "欢迎光临囧闪闪！本站收录2000-2006年最经典的Flash动画，建议使用IE6.0浏览。",
-    "copyright": "Copyright © 2003-2006 囧闪闪 All Rights Reserved.",
+    "copyright": "Copyright © 2000-2006 囧闪闪 All Rights Reserved.",
     "categories": [
       {
         "name": "搞笑动画",
@@ -78,12 +78,25 @@
       "author": "动漫地带",
       "category": "搞笑动画",
       "date": "2005-09-30",
-      "views": 17983,
+      "views": 10,
       "width": 550,
       "height": 400,
       "thumb": "thumbs/1.gif",
       "file": "swf/1.swf",
       "description": "好多人已经把这个设置成了自己的炫酷彩铃！超经典，超火爆！"
+    },
+    {
+      "id": "2",,
+      "title": "Timotei[Sparta Remix]",
+      "author": "MatrixMarioX",
+      "category": "闪客MTV",
+      "date": "2009-06-22",
+      "views": 5,
+      "width": 320,
+      "height": 240,
+      "thumb": "thumbs/2.gif",
+      "file": "swf/2.swf",
+      "description": "Timotei[Sparta Remix]"
     }
   ]
 }
