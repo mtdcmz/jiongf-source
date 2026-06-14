@@ -97,6 +97,19 @@
       "thumb": "thumbs/2.gif",
       "file": "swf/2.swf",
       "description": "Timotei[Sparta Remix]"
+    },
+    {
+      "id": "3",
+      "title": "M-zone猫",
+      "author": "动漫地带",
+      "category": "搞笑动画",
+      "date": "2005-06-14",
+      "views": 2,
+      "width": 500,
+      "height": 375,
+      "thumb": "thumbs/3.gif",
+      "file": "swf/3.swf",
+      "description": "作品是根据一个在网上流行的电话录音改编而成的。先不论故事的立场是否公正，但就欣赏FLASH而言，将原本是一个极为简单的东东，到经过闪客的精彩勾勒，让整个作品顿时鲜活了起来。"
     }
   ]
 }
