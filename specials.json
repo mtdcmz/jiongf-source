@@ -61,5 +61,12 @@
     "header": "specials/9.gif",
     "description": "PinkGirl系列精选合集",
     "category": "PinkGirl系列"
+  },
+  {
+    "id": "10",
+    "name": "狠女系列",
+    "header": "specials/10.gif",
+    "description": "狠女系列精选合集",
+    "category": "狠女系列"
   }
 ]
