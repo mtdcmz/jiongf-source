@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "搞笑动画",
+    "header": "specials/1.gif",
+    "description": "搞笑动画精选合集",
+    "category": "搞笑动画"
+  },
+  {
+    "id": "2",
+    "name": "闪客MTV",
+    "header": "specials/2.gif",
+    "description": "闪客MTV精选合集",
+    "category": "闪客MTV"
+  },
+  {
+    "id": "3",
+    "name": "感人短片",
+    "header": "specials/3.gif",
+    "description": "感人短片精选合集",
+    "category": "感人短片"
+  },
+  {
+    "id": "4",
+    "name": "Flash小游戏",
+    "header": "specials/4.gif",
+    "description": "Flash小游戏精选合集",
+    "category": "Flash小游戏"
+  },
+  {
+    "id": "5",
+    "name": "电子贺卡",
+    "header": "specials/5.gif",
+    "description": "电子贺卡精选合集",
+    "category": "电子贺卡"
+  },
+  {
+    "id": "6",
+    "name": "恶搞配音",
+    "header": "specials/6.gif",
+    "description": "恶搞配音精选合集",
+    "category": "恶搞配音"
+  },
+  {
+    "id": "7",
+    "name": "连续剧",
+    "header": "specials/7.gif",
+    "description": "连续剧精选合集",
+    "category": "连续剧"
+  },
+  {
+    "id": "8",
+    "name": "网络歌曲",
+    "header": "specials/8.gif",
+    "description": "网络歌曲精选合集",
+    "category": "网络歌曲"
+  },
+  {
+    "id": "9",
+    "name": "PinkGirl系列",
+    "header": "specials/9.gif",
+    "description": "PinkGirl系列精选合集",
+    "category": "PinkGirl系列"
+  }
+]

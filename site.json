@@ -1,0 +1,61 @@
+{
+  "siteName": "囧闪闪",
+  "slogan": "中国闪客的精神家园",
+  "domain": "jiongf.dpdns.org",
+  "notice": "欢迎光临囧闪闪！本站收录2000-2006年最经典的Flash动画，建议使用IE6.0浏览。",
+  "copyright": "Copyright © 2000-2006 囧闪闪 All Rights Reserved.",
+  "categories": [
+    {
+      "name": "搞笑动画",
+      "url": "#"
+    },
+    {
+      "name": "闪客MTV",
+      "url": "#"
+    },
+    {
+      "name": "感人短片",
+      "url": "#"
+    },
+    {
+      "name": "Flash小游戏",
+      "url": "#"
+    },
+    {
+      "name": "电子贺卡",
+      "url": "#"
+    },
+    {
+      "name": "恶搞配音",
+      "url": "#"
+    },
+    {
+      "name": "连续剧",
+      "url": "#"
+    },
+    {
+      "name": "网络歌曲",
+      "url": "#"
+    },
+    {
+      "name": "PinkGirl系列",
+      "url": "#"
+    }
+  ],
+  "friendLinks": [
+    {
+      "name": "闪吧",
+      "url": "https://web.archive.org/web/20060815050315/http://www.flash8.net/"
+    },
+    {
+      "name": "闪客帝国",
+      "url": "https://web.archive.org/web/20060815114146/http://www.flashempire.com/"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "本站改版上线",
+      "text": "囧闪闪全新改版，欢迎老闪客回归！"
+    }
+  ]
+}

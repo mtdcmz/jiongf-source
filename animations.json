@@ -1,0 +1,127 @@
+[
+  {
+    "id": "1",
+    "title": "赚钱啦",
+    "source": "闪客帝国",
+    "date": "2026-06-15",
+    "views": 10,
+    "width": 550,
+    "height": 400,
+    "file": "swf/1.swf",
+    "thumb": "thumbs/1.gif",
+    "description": "好多人已经把这个设置成了自己的炫酷彩铃！超经典，超火爆！",
+    "categories": [
+      "搞笑动画"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Timotei[Sparta Remix]",
+    "source": "swfchan",
+    "date": "2026-06-15",
+    "views": 5,
+    "width": 320,
+    "height": 240,
+    "file": "swf/2.swf",
+    "thumb": "thumbs/2.gif",
+    "description": "Timotei[Sparta Remix]",
+    "categories": [
+      "闪客MTV"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "M-zone猫",
+    "source": "集趣吧",
+    "date": "2026-06-15",
+    "views": 2,
+    "width": 500,
+    "height": 375,
+    "file": "swf/3.swf",
+    "thumb": "thumbs/3.gif",
+    "description": "作品是根据一个在网上流行的电话录音改编而成的。先不论故事的立场是否公正，但就欣赏FLASH而言，将原本是一个极为简单的东东，到经过闪客的精彩勾勒，让整个作品顿时鲜活了起来。",
+    "categories": [
+      "搞笑动画"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "暴走的小黑",
+    "source": "集趣吧",
+    "categories": [
+      "搞笑动画",
+      "PinkGirl系列"
+    ],
+    "date": "2026-07-19",
+    "views": 0,
+    "width": 550,
+    "height": 400,
+    "file": "swf/4.swf",
+    "thumb": "thumbs/4.gif",
+    "description": "小黑被一只母鸡惹怒了。"
+  },
+  {
+    "id": "5",
+    "title": "帕娃MTV",
+    "source": "1314521 Flash动漫网",
+    "categories": [
+      "搞笑动画",
+      "PinkGirl系列"
+    ],
+    "date": "2026-07-19",
+    "views": 0,
+    "width": 550,
+    "height": 400,
+    "file": "swf/5.swf",
+    "thumb": "thumbs/5.gif",
+    "description": "咳,静一静,静一静,下面,帕娃小姐将给大家高歌一曲,用的可是上海话哦.(大家鼓掌啦...)"
+  },
+  {
+    "id": "6",
+    "title": "帕娃的新年",
+    "source": "集趣吧",
+    "categories": [
+      "搞笑动画",
+      "PinkGirl系列"
+    ],
+    "date": "2026-07-19",
+    "views": 0,
+    "width": 550,
+    "height": 400,
+    "file": "swf/6.swf",
+    "thumb": "thumbs/6.gif",
+    "description": "过年了两位美女借此机会向心仪已久的帅哥表白。"
+  },
+  {
+    "id": "7",
+    "title": "帕娃之财政赤字",
+    "source": "1314521 Flash动漫网",
+    "categories": [
+      "搞笑动画",
+      "PinkGirl系列"
+    ],
+    "date": "2026-07-19",
+    "views": 0,
+    "width": 550,
+    "height": 400,
+    "file": "swf/7.swf",
+    "thumb": "thumbs/7.gif",
+    "description": "财政赤字的帕娃会发生什么事情呢......"
+  },
+  {
+    "id": "8",
+    "title": "星际女孩",
+    "source": "集趣吧",
+    "categories": [
+      "搞笑动画",
+      "PinkGirl系列"
+    ],
+    "date": "2026-07-19",
+    "views": 0,
+    "width": 550,
+    "height": 400,
+    "file": "swf/8.swf",
+    "thumb": "thumbs/8.gif",
+    "description": "小黑被外星人绑架了,看看星际女孩是怎样拯救小黑的吧……"
+  }
+]
